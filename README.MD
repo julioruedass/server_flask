@@ -1,5 +1,15 @@
 
 # Desplegar una aplicación Python/Flask en Vercel 🚀
+#crear espacio virtual
+python -m venv entorno_virtual   
+python -m venv env   
+
+#activar el entorno virtual
+.\entorno_virtual\Scripts\Activate.ps1 
+.\env\Scripts\Activate.ps1 
+.\env\Scripts\deactivate.bat   
+instalar requerimientos desde archivo
+pip install -r requirements.txt
 
 ## Descripción del Proyecto
 
