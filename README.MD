@@ -12,7 +12,7 @@ instalar requerimientos desde archivo
 pip install -r requirements.txt
 
 ## Descripción del Proyecto
-
+- url https://web-service-palmas-v.vercel.app/
 Esta guía práctica te mostrará cómo desplegar una aplicación web desarrollada con **Python** y **Flask** en **Vercel**. Aprenderás a:
 
 - Configurar el archivo principal de tu aplicación.
